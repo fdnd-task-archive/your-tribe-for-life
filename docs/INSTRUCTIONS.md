@@ -11,6 +11,7 @@ Deze leertaak hoort bij sprint 13: Your Tribe for Life. Dit is een autonome opdr
 - Je leert hoe je een detailpagina kan renderen met een Framework op basis van data uit een Headless CMS
 
 ## Werkwijze
+<img width="1301" alt="image" src="https://user-images.githubusercontent.com/1061632/190141306-4f0c1cb5-2185-4b05-b9d2-74899ab5d72c.png">
 
 
 Bij elke leertaak wordt de development-lifecycle doorlopen. Hierdoor ontwikkel je een standaard aanpak voor frontend praktijkvraagstukken, werk je systematisch aan leertaken, ervaar je de relevantie van het geleerde en verwerf je de kennis, houding en vaardigheden die de beroepspraktijk van je vraagt.
