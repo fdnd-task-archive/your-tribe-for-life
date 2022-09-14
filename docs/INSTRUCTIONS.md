@@ -1,6 +1,6 @@
-# Your Tribe for Life member details
+# Your Tribe for Life - Building the Tribe
 
-Ontwerp en maak een detail pagina voor de afzonderlijke members.
+Werk de verschillende Tribe user stories uit de Tribe Backlog uit: [Tribe Backlog](https://github.com/fdnd-agency/fdnd/projects/10)
 
 ## Context
 Deze leertaak hoort bij sprint 13: Your Tribe for Life. Dit is een autonome opdracht die je in een team uitvoert voor jouw eigen tribe bij FDND.
