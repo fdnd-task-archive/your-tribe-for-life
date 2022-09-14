@@ -1,24 +1,16 @@
-<!--
-De conventie voor naamgeving is sprintnaam-(sub)taaknaam
-Topics: (sub)task semester-naam, semesternummer, sprint-naam, sprint-nummer
--->
+# Your Tribe for Life member details
 
-# Naam
-
-Beschrijving van de leertaak
+Ontwerp en maak een detail pagina voor de afzonderlijke members.
 
 ## Context
-Deze leertaak hoort bij [sprint # "titel van de sprint"]. Dit is een [niveau van de opdracht] die je [individueel, in team] uitvoert voor [opdrachtgever]
+Deze leertaak hoort bij sprint 13: Your Tribe for Life. Dit is een autonome opdracht die je in een team uitvoert voor jouw eigen tribe bij FDND.
 
 ## Doel van deze opdracht
-*Wat leer je in deze taak.*
 
-beschrijf de taak in actieve taal: Je leert hoe...
+- Je leert werken met de backlog van een project op GitHub
+- Je leert hoe je een detailpagina kan renderen met een Framework op basis van data uit een Headless CMS
 
 ## Werkwijze
-![Opdrachtomschrijving](opdrachtomschrijving.png)
-
-*De werkwijze volgt de fasering van de DLC*
 
 
 Bij elke leertaak wordt de development-lifecycle doorlopen. Hierdoor ontwikkel je een standaard aanpak voor frontend praktijkvraagstukken, werk je systematisch aan leertaken, ervaar je de relevantie van het geleerde en verwerf je de kennis, houding en vaardigheden die de beroepspraktijk van je vraagt.
@@ -32,19 +24,26 @@ De development lifecycle kent de volgende stappen:
 
 ### Aanpak
 1. Kies een user story uit de backlog van het project waar je aan gaat werken. De projecten staan bij [FDND Agency](https://github.com/fdnd-agency).  
-2. Fork de leertaak
+2. Fork deze leertaak repository
 3. Hou je proces bij in de Wiki van de geforkte repository
 4. En schrijf een goede readme
 
+### Materiaal
+1. [Tribe Backlog](https://github.com/fdnd-agency/fdnd/projects/10)
+2. [Voorbeeld website](https://programma.fdnd.nl)
+3. [Voorbeeld website GitHub repository](https://github.com/fdnd/programma)
+4. [How to make a website with SvelteKit (and Prismic)](https://prismic.io/blog/svelte-sveltekit-tutorial)
+
 ## Criteria
 
-Focus sprint # - De focus in deze sprint ligt op ...
+Focus sprint 13 - Je hebt al een basis social network voor jouw squad. Breid dit social network uit naar een platform waarop de tribe members elkaar kunnen vinden en ondersteunen. In ieder geval gedurende het begin van jullie carriere als frontend designer & developer.
 
-Voor deze leertaak gelden de gedragscriteria voor sprint #: 
-...
+De focus ligt op team building, samenwerken en hoe je frameworks inzet om een gezamenlijk doel te bereiken én in contact te blijven.
 
+Voor deze leertaak gelden de gedragscriteria voor sprint 13:
 
-
-
-
-
+- **S:** Werkt in teams en signaleert verbeterpunten op gebied van efficiëntie en effectiviteit.
+- **S:** Kan omgaan met diversiteit binnen teams en handelt respectvol naar anderen.
+- **C:** Betrekt gesprekspartners, luistert, vat samen, verifieert en vraagt door tot een boodschap helder is.
+- **C:** Documenteert op professionele wijze en bespreekt voortgang binnen het team.
+- **P:** Schetst om gedachten en processen te verkennen, abstracte begrippen over te brengen en de oplossingsrichting inzichtelijk te maken.
